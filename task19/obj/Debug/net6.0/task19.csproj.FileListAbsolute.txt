@@ -1,0 +1,15 @@
+C:\GeekBrains\helloprogramming\HW3\task19\bin\Debug\net6.0\task19.exe
+C:\GeekBrains\helloprogramming\HW3\task19\bin\Debug\net6.0\task19.deps.json
+C:\GeekBrains\helloprogramming\HW3\task19\bin\Debug\net6.0\task19.runtimeconfig.json
+C:\GeekBrains\helloprogramming\HW3\task19\bin\Debug\net6.0\task19.dll
+C:\GeekBrains\helloprogramming\HW3\task19\bin\Debug\net6.0\task19.pdb
+C:\GeekBrains\helloprogramming\HW3\task19\obj\Debug\net6.0\task19.csproj.AssemblyReference.cache
+C:\GeekBrains\helloprogramming\HW3\task19\obj\Debug\net6.0\task19.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\helloprogramming\HW3\task19\obj\Debug\net6.0\task19.AssemblyInfoInputs.cache
+C:\GeekBrains\helloprogramming\HW3\task19\obj\Debug\net6.0\task19.AssemblyInfo.cs
+C:\GeekBrains\helloprogramming\HW3\task19\obj\Debug\net6.0\task19.csproj.CoreCompileInputs.cache
+C:\GeekBrains\helloprogramming\HW3\task19\obj\Debug\net6.0\task19.dll
+C:\GeekBrains\helloprogramming\HW3\task19\obj\Debug\net6.0\refint\task19.dll
+C:\GeekBrains\helloprogramming\HW3\task19\obj\Debug\net6.0\task19.pdb
+C:\GeekBrains\helloprogramming\HW3\task19\obj\Debug\net6.0\task19.genruntimeconfig.cache
+C:\GeekBrains\helloprogramming\HW3\task19\obj\Debug\net6.0\ref\task19.dll

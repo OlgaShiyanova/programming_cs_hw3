@@ -7,17 +7,32 @@
 // 12821 -> да
 // 23432 -> да
 
-Console.WriteLine("Введите число");
-string? number = Console.ReadLine();
+Console.WriteLine("Введите 5ти значное число");
+int number = Convert.ToInt32(Console.ReadLine()); 
 
-void CheckingNumber(string number){
-  if (number[0]==number[4] || number[1]==number[3]){
-    Console.WriteLine($"Ваше число: {number} - палиндром.");
-  }
-  else Console.WriteLine($"Ваше число: {number} - НЕ палиндром.");
-}
+ string CheckNumber(int number)
+ {
+  if (number % 10 == 1) return ("полиндром");
+  // return null;
+   //  {
+   //   if (number % 100 == number % 10000)
+   //    return "полиндром";
+   //    else return "не является полиндромом";
+   // } 
+   // else return "не является полиндромом";  
+ }
 
-if (number!.Length == 5){
-  CheckingNumber(number);
+
+// void CheckingNumber(string number){
+//  if (number[0]==number[4] || number[1]==number[3]){
+//    Console.WriteLine($"Ваше число: {number} - палиндром.");
+//  }
+//  else Console.WriteLine($"Ваше число: {number} - НЕ палиндром.");
+// }
+
+if (number < 100000) //проверка на 5ти значность
+{
+  string result = CheckNumber(number);
+  Console.WriteLine(result);
 }
-else Console.WriteLine($"Введи правильное число");
+else Console.WriteLine("Введи правильное число");

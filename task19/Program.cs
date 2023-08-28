@@ -19,10 +19,10 @@ int number = Convert.ToInt32(Console.ReadLine());
 
 if (number < 100000) //проверка на 5ти значность
 {
-  if (number % 10 == number % 100000) 
-  {
-    Console.WriteLine ($"полиндром");
-  }
+  if (number % 10 == number / 10000 && number / 10 % 10  == number / 1000 % 10)
+    {
+      Console.WriteLine ($"полиндром");
+    }
    else 
    {
     Console.WriteLine ($"не является полиндромом");  
